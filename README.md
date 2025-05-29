@@ -26,7 +26,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone <ссылка на ваш GitHub-репозиторий>
+git clone https://github.com/Donndii/binary_classification.git
 cd predictive-maintenance-app
 ```
 
@@ -56,8 +56,3 @@ cd predictive-maintenance-app
 
 **-** `README.md`: Описание проекта.
 
-## Видео-демонстрация
-
-[**Ссылка на видео**](**video/demo.mp4**) или встроенное видео ниже:
-
-**<video **src**=**"video/demo.mp4"**controls**width**=**"100%"**>`</video>`**
